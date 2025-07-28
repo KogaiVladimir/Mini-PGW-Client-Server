@@ -1,0 +1,7 @@
+[2025-07-26 20:11:18.276] [info] Logger initialized with async writer thread
+[2025-07-26 20:11:18.276] [info] Socket created (fd: 5)
+[2025-07-26 20:11:18.276] [info] Server address configured: 127.0.0.1:9000
+[2025-07-26 20:11:18.276] [info] Core initialized successfully
+[2025-07-26 20:11:18.276] [info] Client application started
+[2025-07-26 20:11:18.276] [info] Server response: created
+[2025-07-26 20:11:18.276] [info] Socket closed
